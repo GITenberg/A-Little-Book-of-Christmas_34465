@@ -39,6 +39,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Christmas stories'
+- GITenberg
 tableOfContents: The conversion of Hetherington -- The child who had everything but
   -- Santa Claus and Little Billee -- The house of the seven Santas.
 title: A Little Book of Christmas
